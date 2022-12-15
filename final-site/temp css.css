@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+.bg-dark {
+    background-color: #A61212 !important;
+}
+.navbar-dark .navbar-nav .nav-link  {
+    font-family: source-sans-pro;
+    color: #53C0F7;
+    font-style: normal;
+    font-weight: 200;
+}
+.navbar-nav .nav-item {
+    border: 1px solid #D80707;
+    background-image: -webkit-linear-gradient(270deg,rgba(198,0,0,1.00) 0%,rgba(88,8,8,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(198,0,0,1.00) 0%,rgba(88,8,8,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(198,0,0,1.00) 0%,rgba(88,8,8,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(198,0,0,1.00) 0%,rgba(88,8,8,1.00) 100%);
+    width: 108px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+}
+header h2 {
+    font-family: "Segoe UI";
+    color: #0A0A0A;
+    font-size: 350%;
+    text-shadow: 0px 5px 11.05px rgba(171,0,2,0.90);
+    text-align: center;
+    line-height: 1.2em;
+    letter-spacing: 0.12em;
+    margin-top: 1em;
+}
+header p {
+    font-family: sans-serif;
+    color: #0E0E0E;
+    font-size: 150%;
+    font-weight: 100;
+    text-shadow: 0px 0 0px rgba(0, 0, 0, 0.8);
+    text-align: center;
+    line-height: 1em;
+    letter-spacing: 0.4em;
+    font-style: normal;
+}
+header {
+    background-color: #FFEBD7;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: auto auto;
+    height: 300px;
+}
+nav .container {
+    border-bottom: 2px solid #FF3;
+    padding-bottom: 10px;
+}
+body {
+    border-right: 15px solid #FFFFFF;
+    border-left: 15px solid #FFFFFF;
+    border-top-color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+}
+footer {
+    padding-top: 5px;
+
+	font font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+    background-color: #FEFEFC;
+    color: #A20003;
+}
+address {
+    color: #53C0F7;
+}

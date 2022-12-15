@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title> Olivia Karnes</title>
+  <!-- TemplateEndEditable -->
+  <!-- Bootstrap -->
+  <link href="file:///C|/Users/wafle/OneDrive/Documents/lesson08/css/bootstrap-4.3.1.css" rel="stylesheet">
+  <link href="file:///C|/Users/wafle/OneDrive/Documents/lesson08/favorite-styles.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+  a:link {
+    color: #FF1116;
+    text-decoration: underline;
+}
+a:hover {
+    color: #512929;
+    text-decoration: underline;
+}
+  a:visited {
+    color: #FF9FA1;
+    text-decoration: underline;
+}
+a:active {
+    color: #EFE94A;
+    text-decoration: underline;
+}
+  body,td,th {
+    color: #010D19;
+    font-family: sans-serif;
+}
+  h1,h2,h3,h4,h5,h6 {
+    font-family: "Segoe UI";
+}
+  </style>
+<!-- TemplateParam name="MainCarousel" type="boolean" value="true" -->
+  <!-- TemplateBeginEditable name="head" -->
+    <meta name="description" content="Olivia Karnes template - a website all about me, including a past event from my life, a favorite brand that helped inspire my page layout, and a researched section.">
+<!-- TemplateEndEditable -->
+  <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/source-sans-pro:n7,n2:default.js" type="text/javascript"></script>
+</head>
+  <body text="#000000" vlink="#528EAC" alink="#F1EB61">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container"> <a href="../home.html" target="_self">Olivia K
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> </button>
+    </a>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="../home.html">Home <span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"> <a class="nav-link" href="../past event.html">Past event</a></li>
+          <li class="nav-item"> <a class="nav-link" href="../favorite brand.html">Brand</a></li>
+          <li class="nav-item"><a href="../research.html" class="nav-link">Research</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-md-6">
+      <h2 class="text-center"> Olivia Karnes</h2>
+<p class="text-center">SIUE student</p>
+    </div>
+  </header>
+    <!-- TemplateBeginEditable name="MainContent" -->
+    <div class="wrapper">
+      <div class="container mt-4">
+        <h2 class="text-center">ADD HEADLINE HERE </h2>
+        <div class="row">
+          <div class="col-lg-12">
+            <p>Add content here.</p>
+          </div>
+        </div>
+      </div>
+      <div class="container mt-4">
+        <h2 class="text-center">ADD HEADLINE HERE</h2>
+        <div class="row text-center">
+          <div class="col-md-4 pb-1 pb-md-0">
+            <div class="card"> <img class="card-img-top" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/400X200.gif" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Product Name</h5>
+                <p class="card-text">Some quick example text to build on the product name and make up the bulk of the product description.</p>
+                <a href="#" class="btn btn-primary">Get More Info</a> </div>
+            </div>
+          </div>
+          <div class="col-md-4 pb-1 pb-md-0">
+            <div class="card"> <img class="card-img-top" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/400X200.gif" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Product Name</h5>
+                <p class="card-text">Some quick example text to build on the product name and make up the bulk of the product description.</p>
+                <a href="#" class="btn btn-primary">Get More Info</a> </div>
+            </div>
+          </div>
+          <div class="col-md-4 pb-1 pb-md-0">
+            <div class="card"> <img class="card-img-top" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/400X200.gif" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Product Name</h5>
+                <p class="card-text">Some quick example text to build on the product name and make up the bulk of the product description.</p>
+                <a href="#" class="btn btn-primary">Get More Info</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container mt-4">
+        <h2 class="text-center">ADD HEADLINE HERE        </h2>
+        <div class="row">
+          <div class="col-lg-4">
+            <ul class="list-unstyled">
+              <li class="media"> <img class="mr-3" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/100X125.gif" alt="Generic placeholder image">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">Add Name Here</h5>
+                  Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <ul class="list-unstyled">
+              <li class="media"> <img class="mr-3" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/100X125.gif" alt="Generic placeholder image">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">Add Name Here</h5>
+                  Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <ul class="list-unstyled">
+              <li class="media"> <img class="mr-3" src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/images/100X125.gif" alt="Generic placeholder image">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">Add Name Here</h5>
+                  Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  <!-- TemplateEndEditable -->
+  <div class="container bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center"></div>
+        </div>
+        <div class="col-md-4 col-lg-12 col-6 row">
+          <address class="col-lg-6">
+            <strong>Olivia Karnes</strong><br>
+            Instagram: <a href="https://www.instagram.com/liv.karnes/" target="_blank">liv.karnes</a><br>
+          </address>
+          <address class="col-lg-6">
+            <strong>Contact Me</strong><br>
+          <a href="mailto:Okarnes@siue.edu">Okarnes@siue.edu</a><a href="#"></a>
+          </address>
+        </div>
+  </div>
+  </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>© 2022 Olivia Karnes</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/js/jquery-3.3.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/js/popper.min.js"></script>
+    <script src="file:///C|/Users/wafle/OneDrive/Documents/lesson08/js/bootstrap-4.3.1.js"></script>
+</body>
+</html>
